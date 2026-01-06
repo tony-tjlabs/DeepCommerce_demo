@@ -1,0 +1,52 @@
+{
+  "model_path": "/Users/Tony_mac/Desktop/TJLABS/TJLABS_Research/Project/Solt/DeepCommerce/models/journey_extraction/transformer_zone_traffic_latest.pth",
+  "zones": [
+    "<PAD>",
+    "<UNK>",
+    "milk products, Juice",
+    "Meal kit",
+    "Noodle",
+    "Checkout",
+    "Self checkout",
+    "Entrance",
+    "Cosmetics",
+    "Pet",
+    "Stationery",
+    "Toy, Bed",
+    "Car products",
+    "Bath",
+    "Detergent",
+    "Household items",
+    "Wine, Liquor",
+    "Rest area",
+    "Frozen food",
+    "Seafood",
+    "Vegetable",
+    "Kids snack",
+    "Side dishes & Sauce",
+    "Fruits",
+    "Grain",
+    "Underwear",
+    "Sport"
+  ],
+  "num_zones": 27,
+  "config": {
+    "d_model": 128,
+    "nhead": 4,
+    "num_layers": 3,
+    "dim_feedforward": 512,
+    "dropout": 0.1,
+    "context_dim": 15,
+    "batch_size": 32,
+    "num_epochs": 30,
+    "learning_rate": 0.0001
+  },
+  "training_info": {
+    "start_date": "2025-10-01",
+    "end_date": "2025-10-21",
+    "total_transitions": 203909,
+    "best_val_loss": 2.502326250076294,
+    "timestamp": "20260104_152103"
+  },
+  "generated_at": "2026-01-06T11:45:24.487845"
+}

@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+
+# Large raw data (excluded - only cache is deployed)
+Data/Cache/positions_*.parquet
+Data/Cache/heatmap_*.npz
+Data/Cache/stats_*.json
+Data/Cache/stats_*.parquet
+
+# Do NOT exclude Journey cache - it's needed!
+!Data/Cache/Journey/

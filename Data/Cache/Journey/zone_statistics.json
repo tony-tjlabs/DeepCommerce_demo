@@ -1,0 +1,1401 @@
+{
+  "Toy, Bed": {
+    "total_outflow": 4733,
+    "total_inflow": 5264,
+    "total_visitors": 18853,
+    "avg_dwell_time": 1.2221750738167223,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Stationery": 30.48806253961547,
+      "Self checkout": 24.086203253750263,
+      "Car products": 10.923304458060427,
+      "Checkout": 5.556729347137122,
+      "Bath": 5.366575110923304,
+      "Entrance": 5.303190365518699,
+      "Pet": 3.908725966617367,
+      "Detergent": 2.641031058525248,
+      "Cosmetics": 1.6268751320515529,
+      "milk products, Juice": 1.6268751320515529
+    },
+    "inflow_zones": {
+      "Stationery": 17.68617021276596,
+      "Car products": 13.601823708206688,
+      "Bath": 11.45516717325228,
+      "Entrance": 9.612462006079028,
+      "Household items": 7.256838905775076,
+      "Rest area": 7.199848024316109,
+      "Detergent": 6.895896656534954,
+      "Self checkout": 3.913373860182371,
+      "milk products, Juice": 3.628419452887538,
+      "Wine, Liquor": 2.697568389057751
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 6,
+      "Cloudy": 512,
+      "Rainy": 3195,
+      "Sunny": 1020
+    },
+    "time_counts": {
+      "afternoon": 2619,
+      "evening": 1632,
+      "morning": 482
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 73.33050442900334,
+      "avg_dwell_min": 1.2221750738167223,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 70.96659985187983,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 1090.0,
+      "total_visits": 18853,
+      "percentile_25": 30.0,
+      "percentile_75": 80.0
+    },
+    "dwell_time_rank": 16
+  },
+  "Car products": {
+    "total_outflow": 4903,
+    "total_inflow": 5268,
+    "total_visitors": 19746,
+    "avg_dwell_time": 1.4038286235186874,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Self checkout": 22.700387517846217,
+      "Toy, Bed": 14.6033040995309,
+      "Bath": 11.115643483581481,
+      "Stationery": 10.524168876198246,
+      "Detergent": 9.993881297165002,
+      "Entrance": 4.996940648582501,
+      "Pet": 4.731796859065878,
+      "Checkout": 3.8751784621660206,
+      "milk products, Juice": 2.814603304099531,
+      "Cosmetics": 2.1211503161329794
+    },
+    "inflow_zones": {
+      "Detergent": 17.40698557327259,
+      "Bath": 11.958997722095672,
+      "Toy, Bed": 9.813971146545178,
+      "Entrance": 8.940774487471526,
+      "Household items": 7.270311313591496,
+      "milk products, Juice": 6.776765375854215,
+      "Stationery": 6.757782839787396,
+      "Rest area": 4.384965831435079,
+      "Self checkout": 4.347000759301443,
+      "Cosmetics": 2.9043280182232345
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 11,
+      "Cloudy": 487,
+      "Rainy": 3276,
+      "Sunny": 1129
+    },
+    "time_counts": {
+      "afternoon": 2844,
+      "evening": 1524,
+      "morning": 535
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 84.22971741112124,
+      "avg_dwell_min": 1.4038286235186874,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 89.24793931756089,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 1410.0,
+      "total_visits": 19746,
+      "percentile_25": 30.0,
+      "percentile_75": 100.0
+    },
+    "dwell_time_rank": 8
+  },
+  "Stationery": {
+    "total_outflow": 11906,
+    "total_inflow": 14258,
+    "total_visitors": 80246,
+    "avg_dwell_time": 2.5039981224401635,
+    "median_dwell_time": 1.1666666666666667,
+    "outflow_zones": {
+      "Checkout": 47.94221400974299,
+      "Self checkout": 19.60356122963212,
+      "Entrance": 11.842768352091383,
+      "Toy, Bed": 7.819586762976651,
+      "Car products": 2.990089030740803,
+      "Sport": 1.8058121955316648,
+      "Pet": 1.5202418948429364,
+      "Underwear": 1.0582899378464639,
+      "Bath": 0.7475222576852008,
+      "Detergent": 0.705526625230976
+    },
+    "inflow_zones": {
+      "Checkout": 30.845840931406933,
+      "Entrance": 23.460513395988215,
+      "Self checkout": 11.579464160471314,
+      "Toy, Bed": 10.120634030018236,
+      "Car products": 3.6190209005470613,
+      "Household items": 2.651143217842615,
+      "Rest area": 2.5880207602749334,
+      "Bath": 2.265394866040118,
+      "Detergent": 1.844578482255576,
+      "milk products, Juice": 1.4448029176602608
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 19,
+      "Cloudy": 1490,
+      "Rainy": 7803,
+      "Sunny": 2594
+    },
+    "time_counts": {
+      "afternoon": 6875,
+      "evening": 4050,
+      "morning": 981
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 150.2398873464098,
+      "avg_dwell_min": 2.5039981224401635,
+      "median_dwell_sec": 70.0,
+      "median_dwell_min": 1.1666666666666667,
+      "std_dwell_sec": 206.7540887708032,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 5530.0,
+      "total_visits": 80246,
+      "percentile_25": 50.0,
+      "percentile_75": 160.0
+    },
+    "dwell_time_rank": 1
+  },
+  "Wine, Liquor": {
+    "total_outflow": 3398,
+    "total_inflow": 3407,
+    "total_visitors": 12463,
+    "avg_dwell_time": 1.347990050549627,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Rest area": 28.251912889935255,
+      "Household items": 23.837551500882874,
+      "Self checkout": 8.063566804002354,
+      "milk products, Juice": 5.679811653914067,
+      "Detergent": 4.590935844614479,
+      "Stationery": 4.178928781636257,
+      "Toy, Bed": 4.178928781636257,
+      "Bath": 4.002354326074161,
+      "Entrance": 2.5897586815773983,
+      "Meal kit": 2.5897586815773983
+    },
+    "inflow_zones": {
+      "Rest area": 45.582624009392426,
+      "Household items": 14.705019078368064,
+      "milk products, Juice": 10.067508071617258,
+      "Meal kit": 9.275022013501614,
+      "Frozen food": 3.903727619606692,
+      "Entrance": 3.434106251834459,
+      "Detergent": 1.7023774581743467,
+      "Seafood": 1.6730261226885823,
+      "Side dishes & Sauce": 1.5849721162312886,
+      "Vegetable": 1.5262694452597594
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 4,
+      "Cloudy": 425,
+      "Rainy": 2404,
+      "Sunny": 565
+    },
+    "time_counts": {
+      "afternoon": 1829,
+      "evening": 1272,
+      "morning": 297
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 80.87940303297762,
+      "avg_dwell_min": 1.347990050549627,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 81.76823116933144,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 4130.0,
+      "total_visits": 12463,
+      "percentile_25": 40.0,
+      "percentile_75": 90.0
+    },
+    "dwell_time_rank": 10
+  },
+  "Meal kit": {
+    "total_outflow": 12020,
+    "total_inflow": 10878,
+    "total_visitors": 42868,
+    "avg_dwell_time": 1.2438493359460048,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "milk products, Juice": 23.510815307820298,
+      "Rest area": 19.966722129783694,
+      "Frozen food": 13.735440931780365,
+      "Household items": 8.07820299500832,
+      "Self checkout": 5.698835274542429,
+      "Vegetable": 3.26955074875208,
+      "Seafood": 3.219633943427621,
+      "Noodle": 3.0615640599001663,
+      "Wine, Liquor": 2.6289517470881862,
+      "Kids snack": 2.529118136439268
+    },
+    "inflow_zones": {
+      "Frozen food": 26.392719249862107,
+      "milk products, Juice": 15.958815958815958,
+      "Seafood": 11.996690568119138,
+      "Rest area": 7.565728994300423,
+      "Vegetable": 7.096892811178525,
+      "Entrance": 5.717962860820004,
+      "Side dishes & Sauce": 4.780290494576208,
+      "Noodle": 4.5780474351902924,
+      "Kids snack": 4.191947049089906,
+      "Household items": 2.9141386284243427
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 49,
+      "Cloudy": 1451,
+      "Rainy": 7626,
+      "Sunny": 2894
+    },
+    "time_counts": {
+      "afternoon": 6414,
+      "evening": 3992,
+      "morning": 1614
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 74.63096015676028,
+      "avg_dwell_min": 1.2438493359460048,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 91.26860642594693,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 13700.0,
+      "total_visits": 42868,
+      "percentile_25": 40.0,
+      "percentile_75": 90.0
+    },
+    "dwell_time_rank": 14
+  },
+  "Noodle": {
+    "total_outflow": 5467,
+    "total_inflow": 5885,
+    "total_visitors": 28831,
+    "avg_dwell_time": 0.9514353762732244,
+    "median_dwell_time": 0.8333333333333334,
+    "outflow_zones": {
+      "Frozen food": 19.64514358880556,
+      "Seafood": 12.090726175233216,
+      "Vegetable": 10.115236875800255,
+      "Meal kit": 9.109200658496434,
+      "Self checkout": 8.706786171574905,
+      "Kids snack": 8.103164441192611,
+      "milk products, Juice": 6.786171574903969,
+      "Side dishes & Sauce": 6.54838119626852,
+      "Fruits": 2.9449423815621,
+      "Entrance": 2.8534845436253886
+    },
+    "inflow_zones": {
+      "Frozen food": 19.745114698385727,
+      "Seafood": 16.703483432455396,
+      "Vegetable": 15.548003398470689,
+      "Kids snack": 7.816482582837724,
+      "Side dishes & Sauce": 7.23874256584537,
+      "Meal kit": 6.253186066270179,
+      "Entrance": 6.083262531860663,
+      "milk products, Juice": 5.097706032285472,
+      "Fruits": 5.0127442650807135,
+      "Rest area": 2.820730671197961
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 34,
+      "Cloudy": 798,
+      "Rainy": 2996,
+      "Sunny": 1639
+    },
+    "time_counts": {
+      "afternoon": 3077,
+      "evening": 1547,
+      "morning": 843
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 57.086122576393464,
+      "avg_dwell_min": 0.9514353762732244,
+      "median_dwell_sec": 50.0,
+      "median_dwell_min": 0.8333333333333334,
+      "std_dwell_sec": 47.72145296622274,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 1180.0,
+      "total_visits": 28831,
+      "percentile_25": 30.0,
+      "percentile_75": 60.0
+    },
+    "dwell_time_rank": 25
+  },
+  "Fruits": {
+    "total_outflow": 6835,
+    "total_inflow": 6044,
+    "total_visitors": 26788,
+    "avg_dwell_time": 1.1475785177442637,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Vegetable": 27.271397220190195,
+      "Kids snack": 16.56181419166057,
+      "Side dishes & Sauce": 10.665691294806145,
+      "Self checkout": 9.495245062179956,
+      "Seafood": 6.773957571324067,
+      "Frozen food": 6.276517922457938,
+      "Noodle": 4.316020482809071,
+      "Meal kit": 3.8332114118507685,
+      "milk products, Juice": 3.087051938551573,
+      "Entrance": 1.989758595464521
+    },
+    "inflow_zones": {
+      "Side dishes & Sauce": 19.655857048312374,
+      "Kids snack": 16.346790205162147,
+      "Vegetable": 16.015883520847122,
+      "Entrance": 15.718067504963601,
+      "Underwear": 6.71740569159497,
+      "Frozen food": 5.277961614824619,
+      "Seafood": 3.1270681667769686,
+      "Noodle": 2.6637988087359363,
+      "Meal kit": 2.5976174718729315,
+      "Sport": 2.3990734612839177
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 31,
+      "Cloudy": 857,
+      "Rainy": 4686,
+      "Sunny": 1261
+    },
+    "time_counts": {
+      "afternoon": 3868,
+      "evening": 1973,
+      "morning": 994
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 68.85471106465582,
+      "avg_dwell_min": 1.1475785177442637,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 57.46208523833927,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 800.0,
+      "total_visits": 26788,
+      "percentile_25": 30.0,
+      "percentile_75": 80.0
+    },
+    "dwell_time_rank": 20
+  },
+  "Detergent": {
+    "total_outflow": 3949,
+    "total_inflow": 3873,
+    "total_visitors": 13920,
+    "avg_dwell_time": 1.2880268199233715,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Car products": 23.221068624968346,
+      "Bath": 14.864522663965559,
+      "Self checkout": 12.636110407698151,
+      "Toy, Bed": 9.192200557103064,
+      "Stationery": 6.659913902253735,
+      "Household items": 5.089896176247151,
+      "milk products, Juice": 4.304887313243859,
+      "Rest area": 3.4439098505950874,
+      "Pet": 3.140035452013168,
+      "Entrance": 3.0893897189161814
+    },
+    "inflow_zones": {
+      "Household items": 17.841466563387552,
+      "Rest area": 13.21972631035373,
+      "Car products": 12.651691195455719,
+      "milk products, Juice": 10.792667183062225,
+      "Bath": 9.70823650916602,
+      "Meal kit": 5.215595145881745,
+      "Frozen food": 4.156984249935451,
+      "Wine, Liquor": 4.027885360185903,
+      "Toy, Bed": 3.2274722437387036,
+      "Side dishes & Sauce": 2.6336173508907823
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 13,
+      "Cloudy": 435,
+      "Rainy": 2637,
+      "Sunny": 864
+    },
+    "time_counts": {
+      "afternoon": 2300,
+      "evening": 1223,
+      "morning": 426
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 77.2816091954023,
+      "avg_dwell_min": 1.2880268199233715,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 74.12193670472168,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 1390.0,
+      "total_visits": 13920,
+      "percentile_25": 30.0,
+      "percentile_75": 90.0
+    },
+    "dwell_time_rank": 12
+  },
+  "Side dishes & Sauce": {
+    "total_outflow": 12148,
+    "total_inflow": 9448,
+    "total_visitors": 40839,
+    "avg_dwell_time": 1.2878172008782454,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Self checkout": 17.245637141916365,
+      "Kids snack": 15.945011524530786,
+      "Fruits": 9.779387553506751,
+      "Vegetable": 7.97662166611788,
+      "Frozen food": 6.593677971682582,
+      "Cosmetics": 5.367138623641752,
+      "milk products, Juice": 4.790912084293711,
+      "Meal kit": 4.280540006585446,
+      "Seafood": 4.017122160026341,
+      "Entrance": 3.8030951596970697
+    },
+    "inflow_zones": {
+      "Entrance": 19.24216765453006,
+      "Kids snack": 13.48433530906012,
+      "Underwear": 11.621507197290432,
+      "Fruits": 7.715918712955122,
+      "Cosmetics": 6.435224386113463,
+      "Frozen food": 6.2870448772226935,
+      "milk products, Juice": 4.815834038950043,
+      "Vegetable": 4.2125317527519055,
+      "Sport": 4.18077900084674,
+      "Grain": 3.9902624894157497
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 58,
+      "Cloudy": 1438,
+      "Rainy": 8181,
+      "Sunny": 2471
+    },
+    "time_counts": {
+      "afternoon": 6996,
+      "evening": 3473,
+      "morning": 1679
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 77.26903205269473,
+      "avg_dwell_min": 1.2878172008782454,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 75.96981309312257,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 1310.0,
+      "total_visits": 40839,
+      "percentile_25": 40.0,
+      "percentile_75": 80.0
+    },
+    "dwell_time_rank": 13
+  },
+  "Pet": {
+    "total_outflow": 2054,
+    "total_inflow": 2060,
+    "total_visitors": 8482,
+    "avg_dwell_time": 1.5387290733317613,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Self checkout": 34.177215189873415,
+      "Stationery": 9.591041869522881,
+      "Car products": 7.108081791626096,
+      "Entrance": 7.010710808179163,
+      "Checkout": 6.134371957156767,
+      "Toy, Bed": 5.890944498539436,
+      "Side dishes & Sauce": 4.186952288218111,
+      "Cosmetics": 4.138266796494645,
+      "Underwear": 4.089581304771178,
+      "milk products, Juice": 3.1645569620253164
+    },
+    "inflow_zones": {
+      "Car products": 11.262135922330096,
+      "Toy, Bed": 8.980582524271846,
+      "Stationery": 8.78640776699029,
+      "Entrance": 8.349514563106796,
+      "Self checkout": 7.572815533980583,
+      "milk products, Juice": 7.572815533980583,
+      "Detergent": 6.019417475728155,
+      "Household items": 5.631067961165048,
+      "Bath": 5.0,
+      "Cosmetics": 4.514563106796117
+    },
+    "peak_weekday": 4,
+    "weather_counts": {
+      "Clear": 30,
+      "Cloudy": 313,
+      "Rainy": 1711
+    },
+    "time_counts": {
+      "afternoon": 1188,
+      "evening": 579,
+      "morning": 287
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 92.32374439990568,
+      "avg_dwell_min": 1.5387290733317613,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 143.71010267113252,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 960.0,
+      "total_visits": 8482,
+      "percentile_25": 40.0,
+      "percentile_75": 80.0
+    },
+    "dwell_time_rank": 5
+  },
+  "Sport": {
+    "total_outflow": 4350,
+    "total_inflow": 5055,
+    "total_visitors": 27846,
+    "avg_dwell_time": 1.345716919246331,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Underwear": 34.89655172413793,
+      "Entrance": 12.137931034482758,
+      "Self checkout": 11.402298850574713,
+      "Side dishes & Sauce": 9.080459770114944,
+      "Kids snack": 3.5402298850574714,
+      "Fruits": 3.3333333333333335,
+      "Cosmetics": 3.195402298850575,
+      "Vegetable": 2.9655172413793105,
+      "Stationery": 2.666666666666667,
+      "Frozen food": 2.1149425287356323
+    },
+    "inflow_zones": {
+      "Entrance": 55.19287833827893,
+      "Underwear": 15.133531157270031,
+      "Self checkout": 12.561819980217606,
+      "Stationery": 4.253214638971316,
+      "Checkout": 1.7012858555885264,
+      "Side dishes & Sauce": 1.6815034619188922,
+      "Cosmetics": 1.1078140454995054,
+      "Toy, Bed": 0.9891196834817012,
+      "milk products, Juice": 0.791295746785361,
+      "Car products": 0.6923837784371909
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 29,
+      "Cloudy": 554,
+      "Rainy": 2695,
+      "Sunny": 1072
+    },
+    "time_counts": {
+      "afternoon": 2467,
+      "evening": 1255,
+      "morning": 628
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 80.74301515477985,
+      "avg_dwell_min": 1.345716919246331,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 94.54277771130197,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 1820.0,
+      "total_visits": 27846,
+      "percentile_25": 30.0,
+      "percentile_75": 90.0
+    },
+    "dwell_time_rank": 11
+  },
+  "Checkout": {
+    "total_outflow": 6958,
+    "total_inflow": 11118,
+    "total_visitors": 49878,
+    "avg_dwell_time": 1.1877247149711965,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Stationery": 63.20781833860305,
+      "Self checkout": 20.96866915780397,
+      "Entrance": 8.306984765737282,
+      "Sport": 1.2359873526875538,
+      "Pet": 1.2216154067260707,
+      "Car products": 1.1066398390342052,
+      "Toy, Bed": 1.0347801092267894,
+      "milk products, Juice": 0.4024144869215292,
+      "Underwear": 0.388042540960046,
+      "Cosmetics": 0.35929864903707964
+    },
+    "inflow_zones": {
+      "Stationery": 51.340169095161,
+      "Self checkout": 17.215326497571507,
+      "Entrance": 15.182586796186365,
+      "Toy, Bed": 2.365533369311027,
+      "Car products": 1.7089404569167115,
+      "Side dishes & Sauce": 1.4121244828206512,
+      "Pet": 1.1332973556395036,
+      "Household items": 0.9713977334052887,
+      "Cosmetics": 0.9624033099478324,
+      "Rest area": 0.9354200395754633
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 18,
+      "Cloudy": 859,
+      "Rainy": 4503,
+      "Sunny": 1578
+    },
+    "time_counts": {
+      "afternoon": 4087,
+      "evening": 2243,
+      "morning": 628
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 71.26348289827179,
+      "avg_dwell_min": 1.1877247149711965,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 83.85057512258987,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 5750.0,
+      "total_visits": 49878,
+      "percentile_25": 30.0,
+      "percentile_75": 80.0
+    },
+    "dwell_time_rank": 18
+  },
+  "Cosmetics": {
+    "total_outflow": 3775,
+    "total_inflow": 3743,
+    "total_visitors": 15160,
+    "avg_dwell_time": 1.0707563764291996,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Self checkout": 33.74834437086093,
+      "Side dishes & Sauce": 16.105960264900663,
+      "Underwear": 7.5761589403973515,
+      "Entrance": 6.754966887417218,
+      "Stationery": 4.1324503311258285,
+      "Car products": 4.052980132450331,
+      "Toy, Bed": 3.152317880794702,
+      "Checkout": 2.8344370860927155,
+      "Kids snack": 2.728476821192053,
+      "Pet": 2.463576158940397
+    },
+    "inflow_zones": {
+      "Side dishes & Sauce": 17.419182473951373,
+      "Underwear": 13.358268768367621,
+      "Entrance": 9.88511888859204,
+      "Self checkout": 7.988244723483836,
+      "milk products, Juice": 6.73256745925728,
+      "Frozen food": 6.572268234036868,
+      "Kids snack": 4.99599251936949,
+      "Meal kit": 3.980764092973551,
+      "Sport": 3.7135987176061978,
+      "Car products": 2.778519903820465
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 17,
+      "Cloudy": 401,
+      "Rainy": 2465,
+      "Sunny": 892
+    },
+    "time_counts": {
+      "afternoon": 2143,
+      "evening": 1175,
+      "morning": 457
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 64.24538258575198,
+      "avg_dwell_min": 1.0707563764291996,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 60.11761075158391,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 1330.0,
+      "total_visits": 15160,
+      "percentile_25": 30.0,
+      "percentile_75": 70.0
+    },
+    "dwell_time_rank": 24
+  },
+  "Rest area": {
+    "total_outflow": 10947,
+    "total_inflow": 10159,
+    "total_visitors": 41316,
+    "avg_dwell_time": 1.8622406170329493,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Household items": 20.718004932858317,
+      "milk products, Juice": 15.876495843610122,
+      "Wine, Liquor": 14.186535123778205,
+      "Self checkout": 8.002192381474377,
+      "Meal kit": 7.518041472549557,
+      "Frozen food": 4.804969398008587,
+      "Detergent": 4.677080478669955,
+      "Toy, Bed": 3.4621357449529553,
+      "Stationery": 3.3707865168539324,
+      "Bath": 2.8409609938796017
+    },
+    "inflow_zones": {
+      "Meal kit": 23.624372477606066,
+      "milk products, Juice": 21.724579190865242,
+      "Household items": 13.081996259474357,
+      "Wine, Liquor": 9.449748991042425,
+      "Frozen food": 8.278373855694458,
+      "Entrance": 4.626439610197854,
+      "Seafood": 4.124421695048725,
+      "Vegetable": 2.2049414312432325,
+      "Side dishes & Sauce": 2.057289103258195,
+      "Kids snack": 1.732453981691111
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 26,
+      "Cloudy": 1393,
+      "Rainy": 7530,
+      "Sunny": 1998
+    },
+    "time_counts": {
+      "afternoon": 5769,
+      "evening": 4154,
+      "morning": 1024
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 111.73443702197696,
+      "avg_dwell_min": 1.8622406170329493,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 192.42378319762423,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 5910.0,
+      "total_visits": 41316,
+      "percentile_25": 40.0,
+      "percentile_75": 110.0
+    },
+    "dwell_time_rank": 2
+  },
+  "Self checkout": {
+    "total_outflow": 15076,
+    "total_inflow": 23639,
+    "total_visitors": 90870,
+    "avg_dwell_time": 1.7504585305014488,
+    "median_dwell_time": 1.3333333333333333,
+    "outflow_zones": {
+      "Entrance": 58.97452905279915,
+      "Checkout": 12.695675245423189,
+      "Stationery": 10.951180684531705,
+      "Sport": 4.211992570973734,
+      "Underwear": 2.4674980100822497,
+      "Cosmetics": 1.983284690899443,
+      "Car products": 1.518970549217299,
+      "Toy, Bed": 1.3664101883788804,
+      "Side dishes & Sauce": 1.0480233483682675,
+      "Pet": 1.0347572300344918
+    },
+    "inflow_zones": {
+      "Entrance": 14.793349972503067,
+      "Stationery": 9.873514108041794,
+      "Side dishes & Sauce": 8.86247303185414,
+      "Checkout": 6.172003891873599,
+      "Cosmetics": 5.389398874740895,
+      "Toy, Bed": 4.822539024493421,
+      "Car products": 4.708320994965947,
+      "Kids snack": 4.128770252548755,
+      "milk products, Juice": 4.086467278649689,
+      "Underwear": 3.8918735987139894
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 59,
+      "Cloudy": 1822,
+      "Rainy": 10227,
+      "Sunny": 2968
+    },
+    "time_counts": {
+      "afternoon": 8274,
+      "evening": 5075,
+      "morning": 1727
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 105.02751183008694,
+      "avg_dwell_min": 1.7504585305014488,
+      "median_dwell_sec": 80.0,
+      "median_dwell_min": 1.3333333333333333,
+      "std_dwell_sec": 98.42875203766722,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 1670.0,
+      "total_visits": 90870,
+      "percentile_25": 50.0,
+      "percentile_75": 130.0
+    },
+    "dwell_time_rank": 3
+  },
+  "Grain": {
+    "total_outflow": 1510,
+    "total_inflow": 1579,
+    "total_visitors": 7879,
+    "avg_dwell_time": 1.1837796674704912,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Side dishes & Sauce": 24.96688741721854,
+      "Underwear": 17.6158940397351,
+      "Self checkout": 12.980132450331125,
+      "Fruits": 9.33774834437086,
+      "Kids snack": 5.827814569536424,
+      "Vegetable": 5.364238410596026,
+      "Entrance": 4.56953642384106,
+      "Frozen food": 2.847682119205298,
+      "Seafood": 2.781456953642384,
+      "Cosmetics": 2.6490066225165565
+    },
+    "inflow_zones": {
+      "Underwear": 31.22229259024699,
+      "Side dishes & Sauce": 22.79924002533249,
+      "Entrance": 15.13616212792907,
+      "Fruits": 7.473084230525649,
+      "Sport": 4.179860671310956,
+      "Kids snack": 3.0398986700443316,
+      "Vegetable": 2.5965801139962,
+      "Self checkout": 1.8999366687777075,
+      "milk products, Juice": 1.8999366687777075,
+      "Frozen food": 1.7099430018999366
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 14,
+      "Cloudy": 190,
+      "Rainy": 965,
+      "Sunny": 341
+    },
+    "time_counts": {
+      "afternoon": 934,
+      "evening": 323,
+      "morning": 253
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 71.02678004822947,
+      "avg_dwell_min": 1.1837796674704912,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 84.05314541343076,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 3970.0,
+      "total_visits": 7879,
+      "percentile_25": 30.0,
+      "percentile_75": 70.0
+    },
+    "dwell_time_rank": 19
+  },
+  "Household items": {
+    "total_outflow": 7397,
+    "total_inflow": 7436,
+    "total_visitors": 29678,
+    "avg_dwell_time": 1.1300570568546848,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Rest area": 17.96674327430039,
+      "milk products, Juice": 12.369879680951737,
+      "Self checkout": 12.248208733270245,
+      "Detergent": 9.341624983101257,
+      "Wine, Liquor": 6.773016087603083,
+      "Car products": 5.177774773556847,
+      "Toy, Bed": 5.164255779370015,
+      "Stationery": 5.110179802622685,
+      "Bath": 4.2990401514127345,
+      "Meal kit": 4.285521157225903
+    },
+    "inflow_zones": {
+      "Rest area": 30.500268961807425,
+      "milk products, Juice": 18.006993006993007,
+      "Meal kit": 13.058095750403442,
+      "Wine, Liquor": 10.892953200645508,
+      "Frozen food": 5.6481979558902635,
+      "Entrance": 3.415814954276493,
+      "Detergent": 2.703066164604626,
+      "Kids snack": 2.1247982786444326,
+      "Side dishes & Sauce": 1.8558364712210866,
+      "Noodle": 1.6675632060247445
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 18,
+      "Cloudy": 889,
+      "Rainy": 5115,
+      "Sunny": 1375
+    },
+    "time_counts": {
+      "afternoon": 4026,
+      "evening": 2727,
+      "morning": 644
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 67.80342341128109,
+      "avg_dwell_min": 1.1300570568546848,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 56.39831949459895,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 980.0,
+      "total_visits": 29678,
+      "percentile_25": 30.0,
+      "percentile_75": 80.0
+    },
+    "dwell_time_rank": 22
+  },
+  "Bath": {
+    "total_outflow": 2957,
+    "total_inflow": 2913,
+    "total_visitors": 10876,
+    "avg_dwell_time": 1.3985840382493564,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Car products": 21.305377071356105,
+      "Toy, Bed": 20.3922894825837,
+      "Detergent": 12.71559012512682,
+      "Self checkout": 11.430503889076766,
+      "Stationery": 10.92323300642543,
+      "Pet": 3.483260060872506,
+      "Entrance": 3.314169766655394,
+      "Checkout": 2.942171119377748,
+      "Household items": 2.8068988840040583,
+      "Rest area": 2.434900236726412
+    },
+    "inflow_zones": {
+      "Detergent": 20.151047030552697,
+      "Car products": 18.70923446618606,
+      "Household items": 10.916580844490216,
+      "Rest area": 10.67627875042911,
+      "Toy, Bed": 8.71953312736011,
+      "milk products, Juice": 5.217988328184003,
+      "Wine, Liquor": 4.668726398901476,
+      "Entrance": 3.192584963954686,
+      "Stationery": 3.0552694816340544,
+      "Meal kit": 2.6433230346721595
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 8,
+      "Cloudy": 344,
+      "Rainy": 2101,
+      "Sunny": 504
+    },
+    "time_counts": {
+      "afternoon": 1778,
+      "evening": 840,
+      "morning": 339
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 83.91504229496138,
+      "avg_dwell_min": 1.3985840382493564,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 82.51644965068081,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 1050.0,
+      "total_visits": 10876,
+      "percentile_25": 40.0,
+      "percentile_75": 100.0
+    },
+    "dwell_time_rank": 9
+  },
+  "Seafood": {
+    "total_outflow": 8365,
+    "total_inflow": 7435,
+    "total_visitors": 35779,
+    "avg_dwell_time": 1.569854756514529,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Frozen food": 30.376569037656903,
+      "Meal kit": 15.600717274357443,
+      "Vegetable": 13.97489539748954,
+      "Noodle": 11.751344889420205,
+      "milk products, Juice": 5.558876270173341,
+      "Rest area": 5.0089659294680215,
+      "Self checkout": 3.335325762104005,
+      "Kids snack": 2.4148236700537953,
+      "Side dishes & Sauce": 2.367005379557681,
+      "Fruits": 2.259414225941423
+    },
+    "inflow_zones": {
+      "Vegetable": 31.63416274377942,
+      "Frozen food": 17.162071284465366,
+      "Noodle": 8.890383322125084,
+      "Entrance": 7.222595830531271,
+      "Side dishes & Sauce": 6.563550773369199,
+      "Fruits": 6.227303295225286,
+      "Kids snack": 5.285810356422327,
+      "Meal kit": 5.2051109616677875,
+      "milk products, Juice": 2.6630800268997983,
+      "Underwear": 2.636180228648285
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 36,
+      "Cloudy": 1065,
+      "Rainy": 5720,
+      "Sunny": 1544
+    },
+    "time_counts": {
+      "afternoon": 4779,
+      "evening": 2398,
+      "morning": 1188
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 94.19128539087174,
+      "avg_dwell_min": 1.569854756514529,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 100.84431775325412,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 3030.0,
+      "total_visits": 35779,
+      "percentile_25": 40.0,
+      "percentile_75": 110.0
+    },
+    "dwell_time_rank": 4
+  },
+  "Frozen food": {
+    "total_outflow": 13228,
+    "total_inflow": 12576,
+    "total_visitors": 56086,
+    "avg_dwell_time": 1.2435307682249879,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Meal kit": 21.70396129422437,
+      "milk products, Juice": 11.921681282128818,
+      "Seafood": 9.646205019655277,
+      "Vegetable": 8.928031448442697,
+      "Noodle": 8.78439673420018,
+      "Self checkout": 6.811309343816148,
+      "Rest area": 6.357726035681886,
+      "Kids snack": 5.4429996976111275,
+      "Side dishes & Sauce": 4.49047475052918,
+      "Household items": 3.1750831569398246
+    },
+    "inflow_zones": {
+      "Seafood": 20.205152671755723,
+      "Vegetable": 13.979007633587786,
+      "Meal kit": 13.128180661577607,
+      "Noodle": 8.540076335877862,
+      "Kids snack": 7.6574427480916025,
+      "milk products, Juice": 7.625636132315522,
+      "Entrance": 6.456743002544529,
+      "Side dishes & Sauce": 6.369274809160305,
+      "Rest area": 4.182569974554708,
+      "Fruits": 3.4112595419847325
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 72,
+      "Cloudy": 1663,
+      "Rainy": 9319,
+      "Sunny": 2174
+    },
+    "time_counts": {
+      "afternoon": 7441,
+      "evening": 3849,
+      "morning": 1938
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 74.61184609349927,
+      "avg_dwell_min": 1.2435307682249879,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 104.12883656398735,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 17150.0,
+      "total_visits": 56086,
+      "percentile_25": 30.0,
+      "percentile_75": 80.0
+    },
+    "dwell_time_rank": 15
+  },
+  "Entrance": {
+    "total_outflow": 23331,
+    "total_inflow": 15660,
+    "total_visitors": 117346,
+    "avg_dwell_time": 1.486627864037405,
+    "median_dwell_time": 1.1666666666666667,
+    "outflow_zones": {
+      "Self checkout": 14.988641721314988,
+      "Stationery": 14.337148000514338,
+      "Sport": 11.958338691011958,
+      "Side dishes & Sauce": 7.792207792207792,
+      "Checkout": 7.235009215207235,
+      "Underwear": 7.145000214307146,
+      "Fruits": 4.071835755004072,
+      "Kids snack": 4.0675496121040675,
+      "Vegetable": 3.9518237538039522,
+      "Frozen food": 3.48034803480348
+    },
+    "inflow_zones": {
+      "Self checkout": 56.775223499361424,
+      "Stationery": 9.003831417624522,
+      "Checkout": 3.6909323116219666,
+      "Sport": 3.3716475095785436,
+      "Side dishes & Sauce": 2.950191570881226,
+      "Underwear": 2.624521072796935,
+      "milk products, Juice": 1.8199233716475096,
+      "Cosmetics": 1.628352490421456,
+      "Frozen food": 1.6219667943805873,
+      "Toy, Bed": 1.602809706257982
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 127,
+      "Cloudy": 2841,
+      "Rainy": 15702,
+      "Sunny": 4661
+    },
+    "time_counts": {
+      "afternoon": 12911,
+      "evening": 7226,
+      "morning": 3194
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 89.1976718422443,
+      "avg_dwell_min": 1.486627864037405,
+      "median_dwell_sec": 70.0,
+      "median_dwell_min": 1.1666666666666667,
+      "std_dwell_sec": 95.84939317244783,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 8620.0,
+      "total_visits": 117346,
+      "percentile_25": 40.0,
+      "percentile_75": 100.0
+    },
+    "dwell_time_rank": 7
+  },
+  "Underwear": {
+    "total_outflow": 6822,
+    "total_inflow": 5597,
+    "total_visitors": 34288,
+    "avg_dwell_time": 1.5362906361798103,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Side dishes & Sauce": 16.094986807387862,
+      "Self checkout": 13.48578129580768,
+      "Sport": 11.213720316622691,
+      "Cosmetics": 7.32922896511287,
+      "Grain": 7.22661975960129,
+      "Entrance": 6.024626209322779,
+      "Fruits": 5.95133391967165,
+      "Vegetable": 5.203752565230138,
+      "Kids snack": 4.925241864555849,
+      "Frozen food": 3.327469950161243
+    },
+    "inflow_zones": {
+      "Entrance": 29.783812756834017,
+      "Sport": 27.121672324459535,
+      "Side dishes & Sauce": 8.254422011792032,
+      "Self checkout": 6.646417723780597,
+      "Cosmetics": 5.109880293014115,
+      "Grain": 4.752546006789352,
+      "Kids snack": 2.3584062890834376,
+      "Stationery": 2.2512060032160086,
+      "Fruits": 2.0189387171699122,
+      "Pet": 1.5008040021440057
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 34,
+      "Cloudy": 819,
+      "Rainy": 4445,
+      "Sunny": 1524
+    },
+    "time_counts": {
+      "afternoon": 4067,
+      "evening": 1802,
+      "morning": 953
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 92.17743817078862,
+      "avg_dwell_min": 1.5362906361798103,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 102.55105150957195,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 2560.0,
+      "total_visits": 34288,
+      "percentile_25": 30.0,
+      "percentile_75": 100.0
+    },
+    "dwell_time_rank": 6
+  },
+  "milk products, Juice": {
+    "total_outflow": 11624,
+    "total_inflow": 11522,
+    "total_visitors": 48203,
+    "avg_dwell_time": 1.0980609782240385,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Rest area": 18.986579490708877,
+      "Meal kit": 14.934618031658637,
+      "Household items": 11.51927047487956,
+      "Self checkout": 8.310392291810048,
+      "Frozen food": 8.250172057811426,
+      "Kids snack": 4.000344115622849,
+      "Side dishes & Sauce": 3.91431520991053,
+      "Detergent": 3.5960082587749485,
+      "Car products": 3.0712319339298007,
+      "Wine, Liquor": 2.9507914659325536
+    },
+    "inflow_zones": {
+      "Meal kit": 24.52699184169415,
+      "Rest area": 15.084186773129666,
+      "Frozen food": 13.686859920152752,
+      "Household items": 7.941329630272523,
+      "Entrance": 5.068564485332407,
+      "Side dishes & Sauce": 5.051206387779899,
+      "Kids snack": 4.816872070821038,
+      "Vegetable": 4.287450095469537,
+      "Seafood": 4.0357576809581674,
+      "Noodle": 3.219927095990279
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 63,
+      "Cloudy": 1625,
+      "Rainy": 7800,
+      "Sunny": 2136
+    },
+    "time_counts": {
+      "afternoon": 6322,
+      "evening": 3718,
+      "morning": 1584
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 65.88365869344231,
+      "avg_dwell_min": 1.0980609782240385,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 92.8386118671032,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 16120.0,
+      "total_visits": 48203,
+      "percentile_25": 30.0,
+      "percentile_75": 70.0
+    },
+    "dwell_time_rank": 23
+  },
+  "Vegetable": {
+    "total_outflow": 10057,
+    "total_inflow": 9327,
+    "total_visitors": 42976,
+    "avg_dwell_time": 1.2007050446760983,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Seafood": 23.386695833747638,
+      "Frozen food": 17.480361936959333,
+      "Fruits": 9.625136720692055,
+      "Noodle": 9.098140598588047,
+      "Meal kit": 7.676245401213086,
+      "Kids snack": 7.288455801929004,
+      "Self checkout": 5.846673958436909,
+      "milk products, Juice": 4.912001590931689,
+      "Side dishes & Sauce": 3.957442577309337,
+      "Entrance": 2.41622750323158
+    },
+    "inflow_zones": {
+      "Fruits": 19.984989814516993,
+      "Frozen food": 12.662163611021764,
+      "Seafood": 12.53350487831028,
+      "Kids snack": 11.600729066152033,
+      "Side dishes & Sauce": 10.389192666452235,
+      "Entrance": 9.885279296665594,
+      "Noodle": 5.929023265787499,
+      "Meal kit": 4.213573496301062,
+      "Underwear": 3.806154176048033,
+      "milk products, Juice": 2.873378363889782
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 47,
+      "Cloudy": 1249,
+      "Rainy": 6759,
+      "Sunny": 2002
+    },
+    "time_counts": {
+      "afternoon": 5767,
+      "evening": 2736,
+      "morning": 1554
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 72.0423026805659,
+      "avg_dwell_min": 1.2007050446760983,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 65.22928499917288,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 1010.0,
+      "total_visits": 42976,
+      "percentile_25": 30.0,
+      "percentile_75": 80.0
+    },
+    "dwell_time_rank": 17
+  },
+  "Kids snack": {
+    "total_outflow": 8512,
+    "total_inflow": 8178,
+    "total_visitors": 35042,
+    "avg_dwell_time": 1.1371069002910794,
+    "median_dwell_time": 1.0,
+    "outflow_zones": {
+      "Side dishes & Sauce": 14.967105263157896,
+      "Vegetable": 12.711466165413535,
+      "Fruits": 11.607142857142858,
+      "Self checkout": 11.466165413533833,
+      "Frozen food": 11.31343984962406,
+      "milk products, Juice": 6.520206766917293,
+      "Noodle": 5.404135338345864,
+      "Meal kit": 5.357142857142857,
+      "Seafood": 4.617011278195489,
+      "Entrance": 2.6785714285714284
+    },
+    "inflow_zones": {
+      "Side dishes & Sauce": 23.68549767669357,
+      "Fruits": 13.84201516263145,
+      "Entrance": 11.604304230863292,
+      "Vegetable": 8.963071655661532,
+      "Frozen food": 8.804108584005869,
+      "milk products, Juice": 5.685986793837125,
+      "Noodle": 5.416972364881389,
+      "Underwear": 4.108584005869406,
+      "Meal kit": 3.7172902910247005,
+      "Seafood": 2.4700415749572024
+    },
+    "peak_weekday": 5,
+    "weather_counts": {
+      "Clear": 37,
+      "Cloudy": 1116,
+      "Rainy": 5802,
+      "Sunny": 1557
+    },
+    "time_counts": {
+      "afternoon": 4814,
+      "evening": 2485,
+      "morning": 1213
+    },
+    "dwell_stats": {
+      "avg_dwell_sec": 68.22641401746476,
+      "avg_dwell_min": 1.1371069002910794,
+      "median_dwell_sec": 60.0,
+      "median_dwell_min": 1.0,
+      "std_dwell_sec": 57.82131412445664,
+      "min_dwell_sec": 10.0,
+      "max_dwell_sec": 1200.0,
+      "total_visits": 35042,
+      "percentile_25": 30.0,
+      "percentile_75": 80.0
+    },
+    "dwell_time_rank": 21
+  }
+}
