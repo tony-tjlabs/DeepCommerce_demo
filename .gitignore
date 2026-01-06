@@ -34,10 +34,8 @@ Thumbs.db
 *.backup
 
 # Large raw data (excluded - only cache is deployed)
-Data/Cache/positions_*.parquet
 Data/Cache/heatmap_*.npz
 Data/Cache/stats_*.json
-Data/Cache/stats_*.parquet
 
 # Do NOT exclude Journey cache - it's needed!
 !Data/Cache/Journey/
